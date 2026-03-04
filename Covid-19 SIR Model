@@ -1,0 +1,2 @@
+The SIR model is one of the most fundamental mathematical models used to describe how infectious diseases spread in a population. It divides the population into three compartments:
+S → Susceptible , I → Infected , R → Recovered (or Removed)
